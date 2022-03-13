@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from time import sleep
-from fake_useragent import UserAgent
 import os
 from colorama import init
 from colorama import Fore, Back, Style
